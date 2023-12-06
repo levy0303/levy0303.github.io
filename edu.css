@@ -1,0 +1,61 @@
+body {
+    text-align: left;
+    border: 50px 0px;
+    margin: 80px 0px;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    background: lightcoral;
+  }
+
+h3{
+    font-family: 'Gabarito', sans-serif;
+    margin: 80px 0px 0px 60px;
+    padding: 20px 0px 20px 0px;
+    font-size: xx-large;
+    text-align: left;
+}
+
+.section-class{
+    margin: 10px 0px 60px 10px;
+}
+
+.section-class img{
+    margin: 90px 17px -110px 17px;
+    border-radius: 30px;
+    background-color: lightcoral;
+    border: 5px solid rgb(255, 105, 105);
+}
+
+.section-class img:hover{
+    background-color: white;
+}
+
+.section-class li{
+    list-style: none;
+    margin: 0px 50px -100px 50px ;
+    padding: 30px 30px 20px 40px;
+    font-family: 'Gabarito',sans-serif;
+    font-size: x-large;
+    font-weight: 600;
+    color: black;
+}
+
+.section-class li p{
+    margin: 10px 0px 30px 0px;
+}
+
+.section-class .ganjil p{
+    font-size: large;
+    color: black;
+    font-weight: 500;
+}
+
+.section-class .genap p{
+    color: black;
+    font-size: large;
+    font-weight: 500;
+}
+
+strong{
+    font-weight: 300;
+    opacity: 0.8;
+}
